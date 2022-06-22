@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qyY4R88nIPYbSzGdwUXDydWOPa7LfgSYzX6MhPGY3CjaQVOkPKbTkJFwCmaqs7c5/SSaRZyFnSfRvH69q4sUXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SUBODH RANA\\source\\repos\\CloudHandson\\CloudHandson\\CloudHandson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUBODH RANA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
